@@ -2,9 +2,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/darmdev/)
-<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer) -->
-<!-- [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
- -->
+
 Hey there 👋
 
 I’m Diego Rubio, a self-taught web and blockchain developer, language lover, sports junkie and passionate about reading and learning.
@@ -23,6 +21,59 @@ Want to know more about me? _[Check out my portfolio - /UNDER CONSTRUCTION/.](ht
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+
+<br>
+
+## 📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/darubiomunoz/portfolio-01-stopwatch">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=portfolio-01-stopwatch&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br />
+
+<a href="https://github.com/darubiomunoz/portfolio-02-clock">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=portfolio-02-clock&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/darubiomunoz/portfolio-04-surveyform">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=portfolio-04-surveyform&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<br>
+
+<a href="https://github.com/darubiomunoz/smartcontract-subcurrency">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=smartcontract-subcurrency&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/darubiomunoz/github-readme-stats">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=darubiomunoz&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Diego's Languages"/>
+</a>
+
+<a href="https://github.com/darubiomunoz/github-readme-stats">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=darubiomunoz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Diego's GitHub Stats" />
+</a>
+
+<a href="https://github.com/darubiomunoz/github-readme-stats">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=darmdev&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Diego's WakaTime Stats" />
+</a>
+
+<br />
+
+<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer) -->
+<!-- [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+ -->
+
 <!-- ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197) -->
 <!-- ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197) -->
 <!-- ![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197) -->
@@ -69,62 +120,3 @@ Want to know more about me? _[Check out my portfolio - /UNDER CONSTRUCTION/.](ht
 ![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
 
 </details> -->
-<br>
-
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/darubiomunoz/portfolio-01-stopwatch">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=portfolio-01-stopwatch&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br />
-
-<a href="https://github.com/darubiomunoz/portfolio-02-clock">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=portfolio-02-clock&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/darubiomunoz/portfolio-04-surveyform">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=portfolio-04-surveyform&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<br>
-
-<a href="https://github.com/darubiomunoz/smartcontract-subcurrency">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=smartcontract-subcurrency&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/darubiomunoz/github-readme-stats">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=darubiomunoz&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Diego's Languages"/>
-</a>
-
-<a href="https://github.com/darubiomunoz/github-readme-stats">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=darubiomunoz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Diego's GitHub Stats" />
-</a>
-
-<a href="https://github.com/darubiomunoz/github-readme-stats">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=@darmdev&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Diego's WakaTime Stats" />
-</a>
-
-<br>
-
-## 📣 How about an Office quote before you go?
-
-> {office_quote}
->
-> <p>{office_character}</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
-
-<br>

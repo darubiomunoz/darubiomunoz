@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./assets/banner.jpg)](/)
+[![Diego's GitHub Banner](./assets/banner.jpg)](/)
 
 [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/darmdev/)
@@ -43,13 +43,13 @@ Want to know more about me? _[Check out my portfolio - /UNDER CONSTRUCTION/.](ht
 <a href="https://github.com/darubiomunoz/portfolio-04-surveyform">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=portfolio-04-surveyform&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
 <br>
 
 <a href="https://github.com/darubiomunoz/smartcontract-subcurrency">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=smartcontract-subcurrency&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
 <br>
 
 ## &#x1f4c8; GitHub Stats

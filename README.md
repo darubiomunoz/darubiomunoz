@@ -13,14 +13,25 @@ Want to know more about me? _[Check out my portfolio - /UNDER CONSTRUCTION/.](ht
 
 ## 💼 My Skills
 
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="NPM" src="https://img.shields.io/badge/NPM%20-%23F05033.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
+<img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+
+<br>
+
+## :earth_americas: Languages
+
+- English  :us:
+- French :fr:
+- Spanish :es:
 
 <br>
 
@@ -30,25 +41,25 @@ Want to know more about me? _[Check out my portfolio - /UNDER CONSTRUCTION/.](ht
 
 <a href="https://github.com/darubiomunoz/portfolio-01-stopwatch">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=portfolio-01-stopwatch&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</a>  
 
 <br />
 
 <a href="https://github.com/darubiomunoz/portfolio-02-clock">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=portfolio-02-clock&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</a>  
 
 <br>
 
 <a href="https://github.com/darubiomunoz/portfolio-04-surveyform">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=portfolio-04-surveyform&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</a>  
 
 <br>
 
 <a href="https://github.com/darubiomunoz/smartcontract-subcurrency">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=smartcontract-subcurrency&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</a>  
 
 <br>
 
@@ -58,15 +69,15 @@ Want to know more about me? _[Check out my portfolio - /UNDER CONSTRUCTION/.](ht
 
 <a href="https://github.com/darubiomunoz/github-readme-stats">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=darubiomunoz&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Diego's Languages"/>
-</a>
+</a>  
 
 <a href="https://github.com/darubiomunoz/github-readme-stats">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=darubiomunoz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Diego's GitHub Stats" />
-</a>
+</a>  
 
 <a href="https://github.com/darubiomunoz/github-readme-stats">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/wakatime?username=darmdev&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Diego's WakaTime Stats" />
-</a>
+</a>  
 
 <br />
 

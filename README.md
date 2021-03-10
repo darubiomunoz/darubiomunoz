@@ -39,14 +39,14 @@ Want to know more about me? _[Check out my portfolio - /UNDER CONSTRUCTION/.](ht
 
 <br>
 
-<a href="https://github.com/darubiomunoz/portfolio-01-stopwatch">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=portfolio-01-stopwatch&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/darubiomunoz/portfolio-09-testimonialslidercomponent">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=portfolio-09-testimonialslidercomponent&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>  
 
 <br />
 
-<a href="https://github.com/darubiomunoz/portfolio-02-clock">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=portfolio-02-clock&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/darubiomunoz/portfolio-07-faqaccordioncard">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=portfolio-07-faqaccordioncard&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>  
 
 <br>

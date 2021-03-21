@@ -9,7 +9,7 @@ I’m Diego Rubio, a self-taught web and blockchain developer, language lover, s
 I consider myself as a life-long student, with a huge curiosity.
 My life purpose is to make humanity hover.
 
-Want to know more about me? _[Check out my portfolio - /UNDER CONSTRUCTION/.](https://)_
+Want to know more about me? _[CHECK OUT MY PORTFOLIO.](https://darubiomunoz.github.io/)_
 
 ## 💼 My Skills
 

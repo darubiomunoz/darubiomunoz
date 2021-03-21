@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I’m Diego Rubio, a self-taught web and blockchain developer, language lover, sports junkie and passionate about reading and learning.
+I’m Diego Rubio, a web and front-end developer, language lover, sports junkie and passionate about reading and learning.
 I consider myself as a life-long student, with a huge curiosity.
 My life purpose is to make humanity hover.
 

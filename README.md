@@ -7,7 +7,6 @@ Hey there 👋
 
 I’m Diego Rubio, a web and front-end developer, language lover, sports junkie and passionate about reading and learning.
 I consider myself as a life-long student, with a huge curiosity.
-My life purpose is to make humanity hover.
 
 Want to know more about me? _[CHECK OUT MY PORTFOLIO.](https://darubiomunoz.github.io/)_
 
@@ -24,6 +23,9 @@ Want to know more about me? _[CHECK OUT MY PORTFOLIO.](https://darubiomunoz.gith
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="NPM" src="https://img.shields.io/badge/NPM%20-%23F05033.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
 <img alt="Canva" src="https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+<img alt="Redux" src="https://img.shields.io/badge/Redux%20-%23563D7C.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
+<img alt="React Router" src="https://img.shields.io/badge/React Router%20-%ff0000.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+<img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux Toolkit%20-%23563D7C.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
 
 <br>
 
@@ -51,14 +53,14 @@ Want to know more about me? _[CHECK OUT MY PORTFOLIO.](https://darubiomunoz.gith
 
 <br>
 
-<a href="https://github.com/darubiomunoz/portfolio-04-surveyform">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=portfolio-04-surveyform&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/darubiomunoz/portfolio-10-joblistingwithfiltering">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=portfolio-10-joblistingwithfiltering&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>  
 
 <br>
 
-<a href="https://github.com/darubiomunoz/smartcontract-subcurrency">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=smartcontract-subcurrency&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/darubiomunoz/portfolio-11-countries">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=darubiomunoz&repo=portfolio-11-countries&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>  
 
 <br>

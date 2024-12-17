@@ -29,7 +29,7 @@ Want to know more about me? _[CHECK OUT MY PORTFOLIO.](https://darubiomunoz.gith
 
 <br>
 
-## :earth_americas: Languages
+## 🌎 Languages
 
 - English  :us:
 - French :fr:
